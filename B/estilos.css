@@ -29,17 +29,32 @@ button{
     display: block;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+#botongris{
+    background-color: gray;
+}
 .leon{
     width: 300px;
 }
 
+.texto2{
+    width: 25%;
+    height: 40vh;
+}
 .bordeAzul{
     border-color: blue;
     border-width: 2px;
     border-style: dotted;
 }
-
+#textounico{
+    background-image: url(./Imagenes/rebecca-orlov-epic-playdate-HGVtA1zSHo4-unsplash.jpg);
+}
 ul{
     background-color: chocolate;
     width: 500px;
+}
+
+li{
+    background-color: red;
+    width: 50%;
 }
